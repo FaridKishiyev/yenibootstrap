@@ -1,0 +1,46 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+main #page-intro {
+  background-color: #f0f5f9;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+main #showcase {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+main #showcase img {
+  width: 80px;
+  height: 80px;
+}
+
+main #showcase .head-items {
+  width: 400px;
+}
+
+main #showcase .head-items h1 {
+  color: #383b61;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+main #showcase .head-items span {
+  color: #21c39e;
+}
+
+main #showcase .head-items p {
+  color: #909294;
+}
+
+main #showcase .row .card-item {
+  padding: 20px;
+  height: 300px;
+  background-color: #fff2e5;
+}

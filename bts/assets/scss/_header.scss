@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+main{
+    #page-intro{
+        background-color: #f0f5f9;
+        padding-top: 100px;
+        padding-bottom: 100px;
+
+    }
+    #showcase{
+        padding-top: 100px;
+        padding-bottom: 100px;
+
+        img{
+            width: 80px;
+            height: 80px;
+        }
+
+        .head-items{
+            width: 400px;
+            h1{
+                color: #383b61;
+                font-size: 30px;
+                font-weight: bold;
+            }
+            span{
+                color: #21c39e;
+            }
+            p{
+                color: #909294;
+            }
+        }
+        
+        .row{
+            .card-item{
+                padding: 20px;
+                height: 300px;
+                background-color: #fff2e5;
+            }
+        }
+    }
+}
